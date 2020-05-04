@@ -1,4 +1,4 @@
-// define constiables
+// define variables
 const form = document.getElementById('sizePicker');
 const grid = document.getElementById('pixelCanvas');
 
